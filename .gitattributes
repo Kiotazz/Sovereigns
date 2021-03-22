@@ -2,3 +2,4 @@
 Content/Packs/AlienColony/Textures/T_Moss02_BC.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Packs/AlienColony/Textures/T_Moss_Norm.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Packs/AlienColony/Textures/T_LandscapeMeadow_Norm.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Demo/Blueprints/MAINTOWER.uasset filter=lfs diff=lfs merge=lfs -text
