@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 public class SovereignsEditorTarget : TargetRules
 {
-	public SovereignsEditorTarget(TargetInfo Target) : base(Target)
-	{
-		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+    public SovereignsEditorTarget(TargetInfo Target) : base(Target)
+    {
+        Type = TargetType.Editor;
+        DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "Sovereigns" } );
-	}
+        ExtraModuleNames.AddRange(new string[] { "Sovereigns" });
+    }
 }
