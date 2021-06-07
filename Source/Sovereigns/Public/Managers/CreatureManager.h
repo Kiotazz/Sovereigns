@@ -18,6 +18,6 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Game")
 	void TestPrint();
 
-	UFUNCTION(BlueprintCallable, Category = "Game")
-	void GetNearestCreature(FVector location, float range);
+	//UFUNCTION(BlueprintCallable, Category = "Game")
+	//void GetNearestCreature(FVector location, float range);
 };

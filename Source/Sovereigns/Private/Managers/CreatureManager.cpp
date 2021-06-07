@@ -7,7 +7,7 @@ void UCreatureManager::TestPrint() {
 	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("CreatureManager Test Print!"));
 }
 
-void UCreatureManager::GetNearestCreature(FVector location, float range)
-{
-
-}
+//void UCreatureManager::GetNearestCreature(FVector location, float range)
+//{
+//
+//}
